@@ -11,7 +11,7 @@ public class ReadExample {
 		ByteArrayInputStream byt = new ByteArrayInputStream(buf);
 		int k = 0;
 		while ((k = byt.read()) != -1) {
-			//conversion pf a byte into a character
+			//conversion of a byte into a character
 			char ch = (char)k;
 			System.out.println("ascii value of character is: " + k + "; Special character is: " + ch);
 		}

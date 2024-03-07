@@ -2,7 +2,7 @@ package class11;
 
 import java.io.File;
 
-public class ReadDIr {
+public class ReadDir {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
